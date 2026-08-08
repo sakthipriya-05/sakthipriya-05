@@ -60,9 +60,7 @@
 
 </td>
 
-<td width="42%" 
 
-</td>
 
 </tr>
 </table>
