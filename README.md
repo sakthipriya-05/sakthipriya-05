@@ -60,9 +60,7 @@
 
 </td>
 
-<td width="42%" align="center">
-
-<img src="https://illustrations.popsy.co/amber/developer.svg" width="320"/>
+<td width="42%" 
 
 </td>
 
