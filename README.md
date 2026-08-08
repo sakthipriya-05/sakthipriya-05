@@ -225,7 +225,7 @@ An AI-based academic assistant designed to help students access college-related 
 
 ---
 
-# 🧠 Computer Science Knowledge
+# 🧠  Knowledge
 
 <div 
 <img src="https://img.shields.io/badge/DBMS-2563EB?style=for-the-badge"/>
