@@ -227,11 +227,9 @@ An AI-based academic assistant designed to help students access college-related 
 
 # 🧠 Computer Science Knowledge
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7C3AED?style=for-the-badge"/>
+<div 
 <img src="https://img.shields.io/badge/DBMS-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database%20Queries-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Team%20work-0891B2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Problem%20Solving-9333EA?style=for-the-badge"/>
 
 </div>
