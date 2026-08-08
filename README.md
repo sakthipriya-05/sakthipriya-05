@@ -1,42 +1,346 @@
-👋 Hi, I'm Sakthi Priya
-Student • Developer • Dreamer
-I'm a BCA student and aspiring Software Engineer who enjoys learning programming, building web projects, and exploring  tools.
-I'm currently strengthening my skills in  JavaScript, React JS, Python, and web development, while preparing myself for an entry-level software development opportunity.
-👩‍💻 About Me
-🎓 BCA — A.V.V.M Sri Pushpam College
-💻 Interested in Software Development & Web Development
-🌱 Currently improving my React JS, JavaScript and Python skills
-🤖 Exploring AI tools and prompt writing
-🧠 Interested in improving DSA, DBMS and problem-solving
-🚀 Looking for an entry-level IT technical role/ Developer opportunity
-🤝 Strong interest in teamwork and continuous learning
-🛠️ Tech Stack
-Programming & Web
-Frameworks & Tools
-Core Knowledge
-Teamwork • DBMS • Problem Solving
-🚀 Projects
-🌐 Basic Website Development Project
-A beginner-friendly website created to strengthen my understanding of web development fundamentals.
-What I worked on:
-Designed web pages using HTML & CSS
-Created structured pages with simple navigation
-Practised layout and user-interface fundamentals
-Used AI tools to learn concepts and solve basic coding problems
-Explored basic prompt writing
-🤖 College Assistant AI Chatbot
-An academic assistant concept designed to help students access college-related information such as FAQs, exam details, timetables, syllabus information, attendance reminders and placement-related information.
-Tech: React JS • JavaScript • AI API
+<div align="center">
 
-🌐 Portfolio & Connect
-🌐 Portfolio: https://sakthi05-protofilo.netlify.app/
-💼 LinkedIn: https://linkedin.com/in/sakthi-priya-3a41a9401
-🐙 GitHub: https://github.com/sakthipriya-05
-🌱 Currently Learning
-JavaScript
-React JS
-Python
-Prompt Writing
-🎯 Career Goal
-Learn continuously → Build real projects → Become a strong Software Engineer.
-I believe every project is an opportunity to learn something new and every day is a chance to improve.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:17104a,100:7c3aed&height=220&section=header&text=Hi%2C%20I'm%20Sakthi%20Priya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Dreamer&descAlignY=62&descSize=20" width="100%"/>
+
+# 👋 Hi, I'm SakthiPriya
+
+### 💻 Aspiring Software developer 
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=BCA+Student;Aspiring+Software+Engineer;Web+Developer;React+JS+Developer;Always+Learning+%F0%9F%9A%80" />
+</p>
+
+<p>
+  <a href="https://github.com/sakthipriya-05">
+    <img src="https://img.shields.io/badge/GitHub-sakthipriya--05-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://linkedin.com/in/sakthi-priya-3a41a9401">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://sakthi05-protofilo.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+# 🌌 Welcome to My Space
+
+<table>
+<tr>
+
+<td width="58%" valign="middle">
+
+## 🚀 About Me
+
+🎓 I'm a **BCA student** from  
+**A.V.V.M Sri Pushpam College**
+
+💻 I'm passionate about **Software & Web Development**
+
+🌱 Currently improving my skills in:
+
+- ☕ Java
+- ⚡ JavaScript
+- ⚛️ React JS
+- 🐍 Python
+
+🧠 Strengthening my knowledge of:
+
+- Data Structures & Algorithms
+- DBMS
+- Database Queries
+- Problem Solving
+
+🤖 I'm also exploring **AI tools and prompt writing**.
+
+🎯 My goal is to become a **strong Software developer** and build useful real-world applications.
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://illustrations.popsy.co/amber/developer.svg" width="320"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack & Ecosystem
+
+## 💻 Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,python,html,css&theme=dark" />
+
+</div>
+
+<br>
+
+## ⚛️ Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=reactjs,bootstrap,vite&theme=dark" />
+
+</div>
+
+<br>
+
+## 🧰 Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify&theme=dark" />
+
+</div>
+
+<br>
+
+## 🗄️ Database & Backend Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Currently%20Learning-Backend%20Development-A855F7?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📚 My Skills
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="180">
+
+### ⚡
+**JavaScript**
+
+</td>
+
+<td align="center" width="180">
+
+### 🐍
+**Python**
+
+</td>
+
+<td align="center" width="180">
+
+### ⚛️
+**React JS**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🌐
+**HTML5**
+
+</td>
+
+<td align="center">
+
+### 🎨
+**CSS3**
+
+</td>
+
+<td align="center">
+
+### 🅱️
+**Bootstrap**
+
+</td>
+
+
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Basic Website Development
+
+A beginner-friendly web development project created to strengthen my understanding of website design and development.
+
+### ✨ Highlights
+
+- HTML
+- CSS
+- Structured web pages
+- Simple navigation
+- UI fundamentals
+- Responsive design concepts
+
+### 🛠️ Built With
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 College Assistant AI Chatbot
+
+An AI-based academic assistant designed to help students access college-related information.
+
+### ✨ Features
+
+📚 College FAQs  
+🗓️ Exam information  
+📖 Syllabus details  
+⏰ Attendance reminders  
+🎯 Placement information  
+📋 Timetable information
+
+### 🛠️ Built With
+
+<img src="https://skillicons.dev/icons?i=react,js&theme=dark" />
+
+**AI API**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🧠 Computer Science Knowledge
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database%20Queries-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-9333EA?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sakthipriya-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=A855F7&icon_color=38BDF8&text_color=FFFFFF" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthipriya-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=A855F7&text_color=FFFFFF" width="40%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=sakthipriya-05&theme=tokyonight&hide_border=true&background=050816&ring=A855F7&fire=FF6B9D&currStreakLabel=38BDF8" width="70%"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<table align="center">
+
+<tr>
+
+
+
+<td align="center">
+
+### ⚛️
+**React JS**
+
+</td>
+
+<td align="center">
+
+### ⚡
+**JavaScript**
+
+</td>
+
+<td align="center">
+
+### 🐍
+**Python**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🗄️
+**MongoDB**
+
+</td>
+
+
+
+<td align="center">
+
+### 🤖
+**AI Tools**
+
+</td>
+
+<td align="center">
+
+### ✍️
+**Prompt Writing**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 My Developer Journey
+
+<div align="center">
+
+```text
+        📚 LEARN
+           ↓
+        🛠️ BUILD
+           ↓
+        🧠 PRACTICE
+           ↓
+        📈 IMPROVE
+           ↓
+        🚀 GROW
+           ↓
+       👩‍💻 Developer 
