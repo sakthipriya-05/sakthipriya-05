@@ -44,14 +44,12 @@
 
 🌱 Currently improving my skills in:
 
-- ☕ Java
 - ⚡ JavaScript
 - ⚛️ React JS
 - 🐍 Python
 
 🧠 Strengthening my knowledge of:
 
-- Data Structures & Algorithms
 - DBMS
 - Database Queries
 - Problem Solving
@@ -99,7 +97,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=LinkedIn,github,vscode,netlify&theme=dark" />
 
 </div>
 
@@ -113,13 +111,7 @@
 
 </div>
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/Currently%20Learning-Backend%20Development-A855F7?style=for-the-badge"/>
-
-</p>
-
----
 
 # 📚 My Skills
 
