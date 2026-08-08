@@ -33,7 +33,7 @@
 <table>
 <tr>
 
-<td width="58%" valign="middle">
+<td valign="middle">
 
 ## 🚀 About Me
 
