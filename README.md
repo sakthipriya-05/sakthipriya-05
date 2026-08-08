@@ -7,7 +7,7 @@
 ### 💻 Aspiring Software developer 
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=BCA+Student;Aspiring+Software+Engineer;Web+Developer;React+JS+Developer;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=BCA+Student;Aspiring+Software+Developer;Web+Developer;python+Developer;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 <p>
